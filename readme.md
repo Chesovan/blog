@@ -1,2 +1,4 @@
-#blog
-read me not
+#blog 
+
+read me not 
+today
